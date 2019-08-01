@@ -1,10 +1,7 @@
-//n-gram - By Noopur Bhatt and Gabrielle Li
-//Partner SUNets: gabbyli1; nbhatt
-//CS106B - Summer 2019
-//Due July 10, 2019
+//n-gram - By Gabrielle Li
+
 //The ngram program takes in a text file, and a number n indicating the size of a frame of words
 //and the number of words the user wants to generate and it will generate random words from the text.
-//Source: spec, lecture slides, Stanford library
 
 #include <iostream>
 #include <fstream>
